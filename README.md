@@ -5,6 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityazinj&label=Profile%20views&color=0e75b6&style=flat" alt="adityazinj" /> </p>
 
+- 🌱 I’m currently learning **Web Development**
+
+- 💬 Ask me about **Java , OOP , DSA**
+
+- 📫 How to reach me **zinjurkeaditya2@gmail.com**
+
 <h3 align="middle">Connect with me:</h3>
 <p align="middle">
 <a href="https://twitter.com/zinjurke_aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zinjurke_aditya" height="30" width="40" /></a>
