@@ -24,5 +24,5 @@
 
 <p><img align="left" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityazinj&show_icons=true&locale=en&layout=compact" alt="adityazinj" /></p>
 
-<p>&nbsp;<img align="centre" width = "400" height = "160" src="https://github-readme-stats.vercel.app/api?username=adityazinj&show_icons=true&locale=en" alt="adityazinj" /></p>
+<p>&nbsp;<img align="right" width = "400" height = "200" src="https://github-readme-stats.vercel.app/api?username=adityazinj&show_icons=true&locale=en" alt="adityazinj" /></p>
 
