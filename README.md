@@ -73,15 +73,26 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityazinj&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityazinj&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityazinj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityazinj&theme=tokyonight&hide_border=true&border_radius=10" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityazinj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="420"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityazinj&theme=tokyo-night&hide_border=true" width="420"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityazinj&theme=tokyo-night&hide_border=true&area=true" width="850"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityazinj&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityazinj&theme=tokyonight" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityazinj&theme=tokyonight&utcOffset=5" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityazinj&theme=tokyonight" width="400"/>
+</p>
+
 
 
 
