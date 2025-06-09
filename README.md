@@ -74,9 +74,22 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityazinj&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityazinj&layout=compact&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityazinj&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityazinj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="420"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityazinj&theme=tokyonight&hide_border=true" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityazinj&theme=tokyonight&no-frame=true&column=4&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityazinj&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 
 ---
